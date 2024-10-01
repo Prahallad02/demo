@@ -1,1 +1,2 @@
 this is new txt file 
+This changes is to accessed by someone from another branch
